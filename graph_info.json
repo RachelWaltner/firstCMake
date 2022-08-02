@@ -1,0 +1,26 @@
+{
+ "options": [
+  [
+   "catch2:default_reporter",
+   "None"
+  ],
+  [
+   "catch2:with_main",
+   "False"
+  ],
+  [
+   "catch2:with_prefix",
+   "False"
+  ],
+  [
+   "cxxopts:unicode",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

@@ -1,0 +1,12 @@
+#pragma once;
+#include <cstdint>
+#include <string_view>
+
+using namespace std;
+static const std::string_view project_name="@PROJECT_NAME@";
+static const std::string_view project_version="@PROJECT_VERSION@";
+
+static const std::int32_t project_version_major="@PROJECT_VERSION_MAJOR@";
+static const std::int32_t project_version_minor="@PROJECT_VERSION_MINOR@";
+static const std::int32_t project_version_patch="@PROJECT_VERSION_PATCH@";
+
